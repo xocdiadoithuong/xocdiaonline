@@ -1,0 +1,21 @@
+{
+  "name": "xocdiaonline",
+  "version": "0.1.0",
+  "author": "xocdiadoithuong <user+xocdiadoithuong@algorithmia.com>",
+  "description": "Algorithmia Algorithm - xocdiadoithuong/xocdiaonline",
+  "main": "xocdiaonline.js",
+  "bin": {
+    "xocdiaonline": "./xocdiaonline.js"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "algorithmia": "0.3.x"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
